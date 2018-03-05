@@ -1,0 +1,19 @@
+{
+  "name": "manoautomationtester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "dotenv": "^5.0.1",
+    "node-fetch": "^2.0.0"
+  },
+  "devDependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
